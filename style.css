@@ -1,0 +1,50 @@
+#head {
+    background: dodgerblue;
+    padding: 2px;
+    margin: -10px;
+    box-shadow: 1px 1px 10px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: expanded;
+    color: white;
+    font-size: 35px;
+    text-shadow: 2px 2px black;
+}
+
+/* #bd{
+    border: 2px solid black;
+    margin: 10px 400px 10px 400px; 
+    padding: 0px 0px 10px 0px; */
+
+
+form{
+    margin-top: 50px;
+     text-align: center;
+      /* padding: 20px 30px 20px 30px; */
+    
+    }
+
+form input{
+    border: 2px solid dodgerblue;
+    line-height: 20px;
+    border-radius: 5px;
+    padding: 0px 0px 0px 5px;
+}
+form button{
+    background: dodgerblue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5 {
+    margin-top: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+}
